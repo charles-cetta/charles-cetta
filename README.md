@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Charles, I am a student pursuing a masters in Financial Data Science where I am currently focused on learning, creating impactful and interesting projects, and 
+learning more about data science for finance applications. 
+
+- 📫 How to reach me: [cetta.charles.contact@gmail.com]
+- 🔭 I’m currently working on a stock volatility dashboard using econometrics models, python and streamlit
+- 🌱 I’m currently learning ML for trading, derivatives and securities
+
 <!--
 **charles-cetta/charles-cetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
